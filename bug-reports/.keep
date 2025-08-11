@@ -1,1 +1,25 @@
+BID1
+Title - Navigation Button is visible but does not working properly
+Preconditions - User is on any other page not Home page 
+Priority - medium
+Severety - high
+Steps 
+- Open the website in a browser
+- Navigate to any page (e.g., Sign Up page)
+- Locate the navigation button in the top-left corner
+- Click the navigation button
+Expected result - Navigation button should redirect to Home page
+Actual result - Navigation button is clickable but does not redirect; page stays the same
+
+BID2
+Title: "Remember Me" checkbox is missing on Sign Up page
+Preconditions - User is not logged in
+Priority - medium
+Severity - medium
+Steps 
+- Open the website in a browser
+- Navigate to the Sign Up form
+- Review all available UI elements in the Sign Up form
+Expected Result - The Sign Up form contains a "Remember Me" checkbox allowing the user to stay signed in after registration
+Actual Result - No "Remember Me" checkbox is present on the Sign Up page
 
